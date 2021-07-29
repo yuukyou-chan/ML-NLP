@@ -58,6 +58,6 @@
 | 项目     | 19. 知识图谱(Knowledge Graph)                                |                                         |           |
 | 项目     | 20. 评论分析                                                 |                                         |           |
 
-
++++
 
 > 欢迎大家加入！共同完善此项目！NLP学习QQ2群【207576902】<a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=1defd70810d9e67ca6ab3a30e1425a8a358139315a186dd2192d82a4c0ca1ce9"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="NLP学习群②" title="NLP学习群②"></a>
